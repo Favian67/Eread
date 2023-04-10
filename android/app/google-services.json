@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185985205943",
+    "project_id": "library-e77a8",
+    "storage_bucket": "library-e77a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185985205943:android:304b9f0254a2f891006f32",
+        "android_client_info": {
+          "package_name": "com.mycompany.eread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185985205943-iqhsm4nva7u8op325kagg11h3e842v9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDtmd8-PKg5QEJqwswHHofNcV-fXkRk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185985205943-iqhsm4nva7u8op325kagg11h3e842v9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
